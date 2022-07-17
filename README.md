@@ -8,13 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jof-qura&label=Profile%20views&color=0e75b6&style=flat" alt="jof-qura" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jof-qura" alt="jof-qura" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/happygoluuckky" target="blank"><img src="https://img.shields.io/twitter/follow/happygoluuckky?logo=twitter&style=for-the-badge" alt="happygoluuckky" /></a> </p>
 
 - 🔭 I’m currently working on [PUP FMS (A faculty monitoring system for school)](https://github.com/jrglomar/fms)
 
-- 🌱 I’m currently learning **Laravel, VueJS, Automation Testing,**
+- 🌱 I’m currently learning **Different Frameworks (like Laravel), Different Plugins , Automation Testing,**
 
 - 👨‍💻 All of my projects are available at [Currently on working progress](Currently on working progress)
 
