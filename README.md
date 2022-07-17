@@ -1,7 +1,13 @@
 ![GitHub Profile Banner](https://user-images.githubusercontent.com/69708974/179399481-5896881c-25d9-4332-8642-155a79291c79.png)
 
 <div id="header" align="center">
-    <div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+    <div style="width:100%;height:0;padding-bottom:126%;position:relative;">
+        <iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+        </iframe>
+    </div>
+    <p>
+        <a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a>
+    </p>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   ### Hi there 👋
 </div>
