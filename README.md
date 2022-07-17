@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<details>
-  <summary>My Banner</summary>
+
+
 
   ![GitHub Profile Banner](https://user-images.githubusercontent.com/69708974/179399481-5896881c-25d9-4332-8642-155a79291c79.png)
 
-</details>
+
 
 <!--
 **JOF-Qura/JOF-Qura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
