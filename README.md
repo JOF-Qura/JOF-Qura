@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Joshua F - Qura</h1>
-<h3 align="center">A passionate Fullstack Web Developer (wanting to be a Software Tester) from Philippines</h3>
+<h3 align="center">A passionate Fullstack Web Developer (also passionate at Software Testing) from Philippines</h3>
 <!-- <p>I'm <span class="typed" data-typed-items="Developer, Freelancer, Photographer"></span></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jof-qura&label=Profile%20views&color=0e75b6&style=flat" alt="jof-qura" /> </p>
@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Different Frameworks (like Laravel), Different Plugins , Automation Testing,**
 
-- 👨‍💻 All of my projects are available at [Currently on working progress](Currently on working progress)
+- 👨‍💻 All of my projects are available in this profile. (Currently working on my website).
 
 - 💬 Ask me about **anything :) (and I'll think about it)**
 
 - 📫 How to reach me **ferrerjoshua304@gmail.com**
 
-- 📄 Know about my experiences [Currently on working progress](Currently on working progress)
+- 📄 Know about my experiences. (Currently working on my website).
 
 - ⚡ Fun fact **I hate coffee**
 
