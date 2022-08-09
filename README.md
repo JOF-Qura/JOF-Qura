@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available in this profile. (Currently working on my website).
 
-- 💬 Ask me about **anything :) (and I'll think about it)**
-
 - 📫 How to reach me **ferrerjoshua304@gmail.com**
 
 - 📄 Know about my experiences. (Currently working on my website).
