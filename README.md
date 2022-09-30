@@ -36,14 +36,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a> 
   <a target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-HTML5-f0a45c?logo=html&logoColor=white&style=plastic" alt="c" />
+    <img src="https://img.shields.io/badge/-HTML5-f0a45c?logo=html5-original-wordmark&logoColor=white&style=plastic" alt="c" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-JAVA-f89820?logo=java&logoColor=white&style=plastic" alt="c" />
+    <img src="https://img.shields.io/badge/-JAVA-f89820?logo=java-original&logoColor=white&style=plastic" alt="c" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript-original&logoColor=white&style=plastic" alt="c" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
