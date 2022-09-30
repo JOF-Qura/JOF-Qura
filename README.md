@@ -30,27 +30,27 @@
 <h4 align="center">Languages</h4> 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-C Programming-61DAFB?logo=c&logoColor=white&style=plastic" alt="C" height="40" />
+    <img src="https://img.shields.io/badge/-C Programming-61DAFB?logo=c&logoColor=white&style=plastic" alt="C" height="20" />
   </a>
-    <img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css&logoColor=white&style=plastic" alt="CSS" height="40"/>
+    <img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css&logoColor=white&style=plastic" alt="CSS" height="20"/>
   </a> 
   <a target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-HTML5-f0a45c?logo=html5&logoColor=white&style=plastic" alt="HTML" height="40"/>
+    <img src="https://img.shields.io/badge/-HTML5-f0a45c?logo=html5&logoColor=white&style=plastic" alt="HTML" height="20"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-JAVA-f89820?logo=java&logoColor=white&style=plastic" alt="Java" height="40"/>
+    <img src="https://img.shields.io/badge/-JAVA-f89820?logo=java&logoColor=white&style=plastic" alt="Java" height="20"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white&style=plastic" alt="JavasCript" height="40"/>
+    <img src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white&style=plastic" alt="JavasCript" height="20"/>
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-Pandas-4848b6?logo=pandas&logoColor=white&style=plastic" alt="pandas" height="40"/>
+    <img src="https://img.shields.io/badge/-Pandas-4848b6?logo=pandas&logoColor=white&style=plastic" alt="pandas" height="20"/>
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=plastic" alt="PHP" height="40"/>
+    <img src="https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=plastic" alt="PHP" height="20"/>
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-Python-fbcb24?logo=python&logoColor=white&style=plastic" alt="Python" height="40"/>
+    <img src="https://img.shields.io/badge/-Python-fbcb24?logo=python&logoColor=white&style=plastic" alt="Python" height="20"/>
   </a>
 </p>
   
