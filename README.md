@@ -30,34 +30,27 @@
 <h4 align="center">Languages</h4> 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-C Programming-61DAFB?logo=c&logoColor=white&style=plastic" alt="C" />
+    <img src="https://img.shields.io/badge/-C Programming-61DAFB?logo=c&logoColor=white&style=plastic" alt="C" height="40" />
   </a>
-    <img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css&logoColor=white&style=plastic" alt="CSS" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css&logoColor=white&style=plastic" alt="CSS" height="40"/>
   </a> 
   <a target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-HTML5-f0a45c?logo=html5-original-wordmark&logoColor=white&style=plastic" alt="HTML" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-HTML5-f0a45c?logo=html5&logoColor=white&style=plastic" alt="HTML" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-JAVA-f89820?logo=java-original&logoColor=white&style=plastic" alt="Java" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/-JAVA-f89820?logo=java&logoColor=white&style=plastic" alt="Java" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript-original&logoColor=white&style=plastic" alt="JavasCript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white&style=plastic" alt="JavasCript" height="40"/>
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-Pandas-4848b6?logo=pandas&logoColor=white&style=plastic" alt="pandas" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/-Pandas-4848b6?logo=pandas&logoColor=white&style=plastic" alt="pandas" height="40"/>
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=plastic" alt="PHP" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=plastic" alt="PHP" height="40"/>
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-Python-fbcb24?logo=python&logoColor=white&style=plastic" alt="Python" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/-Python-fbcb24?logo=python&logoColor=white&style=plastic" alt="Python" height="40"/>
   </a>
 </p>
   
