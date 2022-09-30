@@ -86,7 +86,6 @@
 <h4 align="center">Tools</h4> 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<p align="center"> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
@@ -99,10 +98,12 @@
 </p>
   
 ----
+
 <h3 align="center"> Github Stats: </h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jof-qura&show_icons=true&locale=en&layout=compact" alt="jof-qura" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jof-qura&show_icons=true&locale=en" alt="jof-qura" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jof-qura&" alt="jof-qura" /></p>
+
 ----
 
 <h3 align="center">Connect with me:</h3>
