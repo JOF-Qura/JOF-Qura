@@ -15,18 +15,17 @@
 
 - 🌱 I’m currently learning **Different Frameworks (like Laravel), Different Plugins , Automation Testing,**
 
-- 👨‍💻 All of my projects are available in this profile. (Currently working on my website).
+- 👨‍💻 All of my projects are available in this profile. You can check also my portfolio at <a href="https://jof-qura.codes" target="_blank" rel="noreferrer">jof-qura.codes</a>.
 
 - 📫 How to reach me **ferrerjoshua304@gmail.com**
 
-- 📄 Know about my experiences. (Currently working on my website).
+- 📄 Know about my experiences at <a href="https://jof-qura.codes" target="_blank" rel="noreferrer">My Portfolio</a>.
 
 - ⚡ Fun fact **I hate coffee**
 
 ----
 
 <h2>Additional Information</h2>
-<a href="https://jof-qura.codes" target="_blank" rel="noreferrer">My Portfolio</a><br>
 <a href="https://www.canva.com/design/DAFNsghhg9s/bfL2piGyOSeEaod_bJzK3w/view?utm_content=DAFNsghhg9s&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" rel="noreferrer">My OJT Journal</a><br>
 <a href="https://drive.google.com/file/d/1OsIWttZH67dKxn737Pu0L5HnLuBF62I3/view?usp=sharing" target="_blank" rel="noreferrer">My Accomplishments/Honors&Awards/Certificates during my studies as BSIT student</a>
 
