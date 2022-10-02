@@ -25,6 +25,13 @@
 
 ----
 
+<h2>Additional Information</h2>
+<a href="https://jof-qura.codes" target="_blank" rel="noreferrer">My Portfolio</a><br>
+<a href="https://www.canva.com/design/DAFNsghhg9s/bfL2piGyOSeEaod_bJzK3w/view?utm_content=DAFNsghhg9s&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" rel="noreferrer">My OJT Journal</a><br>
+<a href="https://drive.google.com/file/d/1OsIWttZH67dKxn737Pu0L5HnLuBF62I3/view?usp=sharing" target="_blank" rel="noreferrer">My Accomplishments/Honors&Awards/Certificates during my studies as BSIT student</a>
+
+----
+
 <h3 align="center">Knowledgeable in:</h3>
 
 <h4 align="center">Languages</h4> 
